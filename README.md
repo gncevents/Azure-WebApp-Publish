@@ -31,7 +31,7 @@ This appendix will show you how to create a new web site from the Azure Portal a
 4. Wait until the new **Web Site** is created.
 5. Once the Web Site is created click the link under the **URL** column. Check that the new Web Site is working.
 
-    ![Browsing to the new web site](https://github.com/aspnet/Docs/blob/master/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api/_static/image43.png "Browsing to the new web site")
+    ![Browsing to the new web site](https://github.com/aspnet/Docs/blob/master/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api/_static/image42.png "Browsing to the new web site")
 
     *Browsing to the new web site*
 
