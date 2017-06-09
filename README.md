@@ -17,7 +17,7 @@ This appendix will show you how to create a new web site from the Azure Portal a
     *Log on to Portal*
 2. Click **New** on the command bar.
 
-    ![Creating a new Web Site](build-restful-apis-with-aspnet-web-api/_static/image40.png "Creating a new Web Site")
+    ![Creating a new Web Site](https://github.com/aspnet/Docs/blob/master/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api/_static/image1.png "Creating a new Web Site")
 
     *Creating a new Web Site*
 3. Click **Compute** | **Web Site**. Then select **Quick Create** option. Provide an available URL for the new web site and click **Create Web Site**.
