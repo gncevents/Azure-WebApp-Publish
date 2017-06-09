@@ -35,7 +35,7 @@ This appendix will show you how to create a new web site from the Azure Portal a
 
     *Browsing to the new web site*
 
-    ![Web site running](build-restful-apis-with-aspnet-web-api/_static/image43.png "Web site running")
+    ![Web site running](https://github.com/aspnet/Docs/blob/master/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api/_static/image43.png "Web site running")
 
     *Web site running*
 6. Go back to the portal and click the name of the web site under the **Name** column to display the management pages.
